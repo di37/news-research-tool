@@ -17,7 +17,12 @@ Please go through the notebooks in the research folder to know how the above fea
 ## Running the app
 
 1. Install the requirements - `pip install -r requirements.txt`
-2. Store your OpenAI API Key in .env file which is to be located in the root folder of this project.
+2. Store your OpenAI API Key in .env file which is to be located in the root folder of this project. It should be in the following format.
+
+```
+OPENAI_API_KEY=YOUR-OPENAI-API-KEY
+```
+
 3. Run the app - `streamlit run main.py`
 
 ## The Application
