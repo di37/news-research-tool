@@ -17,11 +17,12 @@ Please go through the notebooks in the research folder to know how the above fea
 ## Running the app
 
 1. Install the requirements - `pip install -r requirements.txt`
-2. Run the app - `streamlit run main.py`
+2. Store your OpenAI API Key in .env file which is to be located in the root folder of this project.
+3. Run the app - `streamlit run main.py`
 
 ## The Application
 
-()[]
+![News Research Tool](https://github.com/di37/news-research-tool/blob/main/data/screenshots/UI_Screenshot.png?raw=true)
 
 # Resources
 
