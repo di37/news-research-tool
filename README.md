@@ -31,4 +31,6 @@ OPENAI_API_KEY=YOUR-OPENAI-API-KEY
 
 # Resources
 
-Special thanks to Mr.Dhaval to create end to end project: https://www.youtube.com/watch?v=MoqgmWV1fm8&ab_channel=codebasics
+1. Special thanks to Mr.Dhaval to create end to end project: https://www.youtube.com/watch?v=MoqgmWV1fm8&ab_channel=codebasics
+2. Langchain Documentation: https://python.langchain.com/docs
+3. Streamlit Documentation: https://docs.streamlit.io
